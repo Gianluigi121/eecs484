@@ -1,0 +1,16 @@
+Size of GHJ result: 1 pages
+Page 0 with disk id = 7
+Record with key=1 and data=1l
+Record with key=1 and data=1r
+Record with key=1 and data=1l
+Record with key=1 and data=11r
+Record with key=1 and data=11l
+Record with key=1 and data=1r
+Record with key=1 and data=11l
+Record with key=1 and data=11r
+Record with key=1 and data=111l
+Record with key=1 and data=1r
+Record with key=1 and data=111l
+Record with key=1 and data=11r
+Record with key=0 and data=0l
+Record with key=0 and data=0r
